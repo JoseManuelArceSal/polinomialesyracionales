@@ -1,0 +1,2 @@
+# polinomialesyracionales
+ejercicios en octave 
